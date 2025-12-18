@@ -1,12 +1,11 @@
-# SCT_WD_3
+
 
 🎮 Tic-Tac-Toe Web Application ❌⭕
 
-Task 03 – SkillCraft Technology Internship
 
 📌 About
 
-•This project is an interactive Tic-Tac-Toe web application developed as Task 03 during my Web Development Internship at SkillCraft Technology. It allows users to play the game with automatic win detection and smooth interaction.
+•This project is an interactive Tic-Tac-Toe web application.  It allows users to play the game with automatic win detection and smooth interaction.
 
 ✨ Features
 
